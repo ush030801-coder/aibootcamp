@@ -1,4 +1,4 @@
-[portfolio_updated (1).html](https://github.com/user-attachments/files/30725005/portfolio_updated.1.html)
+[portfolio_final.html](https://github.com/user-attachments/files/30725147/portfolio_final.html)
 <!DOCTYPE html>
 <html lang="ko">
 <head>
@@ -110,7 +110,7 @@
 <body>
 
     <header>
-        <img src="image_8fcfa5.jpg" alt="프로필 이미지" class="profile-img">
+        <img src="Gemini_Generated_Image_1m2pbq1m2pbq1m2p.png" alt="프로필 이미지" class="profile-img">
         <h1>데이터로 논리를 증명하는<br>수학과 예비 분석가</h1>
         <p class="subtitle">수식 속에서 길러낸 논리적 사고력과 문제 해결 능력</p>
     </header>
